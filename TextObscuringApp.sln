@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextObscuringApp", "TextObscuringApp.csproj", "{57A837E8-1150-458F-AB78-46EB6BF26F1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57A837E8-1150-458F-AB78-46EB6BF26F1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A837E8-1150-458F-AB78-46EB6BF26F1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A837E8-1150-458F-AB78-46EB6BF26F1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A837E8-1150-458F-AB78-46EB6BF26F1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB78FFBF-0568-49D5-8E97-D4A04A626CAE}
+	EndGlobalSection
+EndGlobal
