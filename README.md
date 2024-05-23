@@ -9,5 +9,5 @@
             
  <span align="middle"> <br>
  * The app is very simple and intuitive, however just in case, instructions are on the image.</span>  
-<span align="left"><img src="https://github.com/VSustar/TextObscuringApp/blob/master/Images/TextObscuringApp_usage_3.jpg" width="100%"/></span>
+<span align="left"><img src="https://github.com/VSustar/TextObscuringApp/blob/master/Images/TextObscuringApp_usage_4.jpg" width="100%"/></span>
 <br><br>
